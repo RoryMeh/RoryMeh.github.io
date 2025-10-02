@@ -5,7 +5,7 @@ body {
 }
 h1 {
     text-align: center;
-    color: crimson
+    color: crimson;
 }
 h2 {
     text-align: center;
@@ -14,4 +14,24 @@ h2 {
 h3 {
     text-align: center;
     color: #DF96F3;
+}
+.about {
+    background: rgb(151, 249, 249);
+    text-align: center;
+    color: #16CDD4;
+}
+.skills {
+    background: #f07777;
+    text-align: center;
+    color: crimson;
+}
+.projects {
+    background: rgb(151, 249, 249);
+    text-align: center;
+    color: #16CDD4;
+}
+.contact {
+    background: #f07777;
+    text-align: center;
+    color: crimson;
 }
