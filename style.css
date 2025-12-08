@@ -15,7 +15,7 @@ h3 {
     text-align: center;
     color: #DF96F3;
 }
-table {
+tr, th, td {
     text-align: center;
 }
 .about {
