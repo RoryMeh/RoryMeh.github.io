@@ -19,7 +19,7 @@ h5 {
     text-align: center;
     color: rgb(168, 92, 168)
 }
-.center-table {
+.centered {
     margin: 0 auto;
 }
 .programs {
@@ -31,7 +31,7 @@ h5 {
     color: #16CDD4;
 }
 .skills {
-    background: #f07777;
+    background: #f59c9c;
     text-align: center;
     color: crimson;
 }
