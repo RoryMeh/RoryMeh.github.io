@@ -13,7 +13,11 @@ h2 {
 }
 h3 {
     text-align: center;
-    color: #DF96F3;
+    color: rgb(168, 92, 168);
+}
+h5 {
+    text-align: center;
+    color: rgb(168, 92, 168)
 }
 .center-table {
     margin: 0 auto;
@@ -22,7 +26,7 @@ h3 {
     text-align: center;
 }
 .about {
-    background: rgb(151, 249, 249);
+    background: rgb(189, 246, 246);
     text-align: center;
     color: #16CDD4;
 }
@@ -32,7 +36,7 @@ h3 {
     color: crimson;
 }
 .projects {
-    background: rgb(151, 249, 249);
+    background: rgb(189, 246, 246);
     text-align: center;
     color: #16CDD4;
 }
